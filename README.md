@@ -52,7 +52,6 @@ All these insights are made easily explorable using **slicers**, **pivot tables*
 
 ## 📷 Preview
 
-> *(Add a screenshot of your Excel dashboard here for better visibility)*
 
 ![Dashboard Preview](dashboard-preview.png)
 
